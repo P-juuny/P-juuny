@@ -63,11 +63,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
 <p align="center">
   <img src="https://github-readme-stats-sigma-hazel-12.vercel.app/api?username=P-juuny&show_icons=true&theme=radical&hide_border=true" height="165"/>
   <img src="https://github-readme-stats-sigma-hazel-12.vercel.app/api/top-langs/?username=P-juuny&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
-
-</div>
