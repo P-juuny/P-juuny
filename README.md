@@ -1,6 +1,6 @@
 <div align="center">
-  
-# Hello!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Make+It+Work%2C+Make+It+Better)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,6 +53,8 @@
 **Robotics**
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white)
 
 </div>
 
