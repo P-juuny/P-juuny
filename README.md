@@ -65,6 +65,6 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=P-junny&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=P-junny&theme=radical&hide_border=true)
 
 </div>
