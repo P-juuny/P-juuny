@@ -7,20 +7,17 @@
 ## 🐣 About Me
 
 - 👨‍🎓 한국항공대학교 소프트웨어학과 3학년
-- 🤖 로봇에 관심이 많습니다
 - 🔭 현재 Generative AI와 로봇틱스를 공부 중입니다
 
 ## 📚 Experience
 
 - 한국항공대학교 소프트웨어학과 (2021.03~)
 - 한국항공대학교 InMo Lab 학부연구생
-- 한국항공대학교 대학원 (2026.03~)
+- 한국항공대학교 대학원 (2027.03~)
 
 ## 🌟 Current Focus
 
-- 🔬 LangGraph 기반 AI Agent 개발
-- 📖 강화학습 & Generative AI 공부
-- 🛠 팀 프로젝트 (생성형 AI 에이전트)
+- LLM으로 Behavior Tree 만들기
 
 ## 🛠 Tech Stack
 
